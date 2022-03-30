@@ -3,8 +3,8 @@ function main (){
     // Only change code above this line
 }
 console.log (main());
-//Single JavaScript comment
-/*Multi-line
-comment 
+//Ovo je komentar sa pet rijeci 
+/*Ovo je multi line komentar 
+sa pet rijeci 
 */
 module.exports = main;
