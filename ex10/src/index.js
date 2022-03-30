@@ -1,12 +1,10 @@
 function main(numOne, numTwo){
     //Only change code below this line
-  var numOne = 425;
-  var numTwo = 10;
-  var difference = numOne*numTwo;
-
-    //Only change code above this line
+product = numOne*numTwo;
+//Only change code above this line
    
-    return difference;
+    return product;
 }
-console.log(main()); //change this line
-
+console.log(main(15,3)); //change this line
+console.log(main(25,8));
+console.log(main(425,10));
